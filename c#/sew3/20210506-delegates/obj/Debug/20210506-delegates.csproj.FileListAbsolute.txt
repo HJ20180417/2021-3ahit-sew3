@@ -1,0 +1,10 @@
+C:\_repos\2021-3ahit-sew3-HJ20180417\c#\sew3\20210506-delegates\bin\Debug\20210506-delegates.exe.config
+C:\_repos\2021-3ahit-sew3-HJ20180417\c#\sew3\20210506-delegates\bin\Debug\20210506-delegates.exe
+C:\_repos\2021-3ahit-sew3-HJ20180417\c#\sew3\20210506-delegates\bin\Debug\20210506-delegates.pdb
+C:\_repos\2021-3ahit-sew3-HJ20180417\c#\sew3\20210506-delegates\obj\Debug\20210506-delegates.csprojAssemblyReference.cache
+C:\_repos\2021-3ahit-sew3-HJ20180417\c#\sew3\20210506-delegates\obj\Debug\_20210506_delegates.Form1.resources
+C:\_repos\2021-3ahit-sew3-HJ20180417\c#\sew3\20210506-delegates\obj\Debug\_20210506_delegates.Properties.Resources.resources
+C:\_repos\2021-3ahit-sew3-HJ20180417\c#\sew3\20210506-delegates\obj\Debug\20210506-delegates.csproj.GenerateResource.cache
+C:\_repos\2021-3ahit-sew3-HJ20180417\c#\sew3\20210506-delegates\obj\Debug\20210506-delegates.csproj.CoreCompileInputs.cache
+C:\_repos\2021-3ahit-sew3-HJ20180417\c#\sew3\20210506-delegates\obj\Debug\20210506-delegates.exe
+C:\_repos\2021-3ahit-sew3-HJ20180417\c#\sew3\20210506-delegates\obj\Debug\20210506-delegates.pdb

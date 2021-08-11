@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "X:\\_repos\\2021-3ahit-sew3-HJ20180417\\c#\\sew3\\15012021-shaped\\15012021-shaped.csproj": {}
+  },
+  "projects": {
+    "X:\\_repos\\2021-3ahit-sew3-HJ20180417\\c#\\sew3\\15012021-shaped\\15012021-shaped.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "X:\\_repos\\2021-3ahit-sew3-HJ20180417\\c#\\sew3\\15012021-shaped\\15012021-shaped.csproj",
+        "projectName": "15012021-shaped",
+        "projectPath": "X:\\_repos\\2021-3ahit-sew3-HJ20180417\\c#\\sew3\\15012021-shaped\\15012021-shaped.csproj",
+        "packagesPath": "C:\\Users\\jakob\\.nuget\\packages\\",
+        "outputPath": "X:\\_repos\\2021-3ahit-sew3-HJ20180417\\c#\\sew3\\15012021-shaped\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jakob\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\PROGRAM FILES\\DOTNET\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

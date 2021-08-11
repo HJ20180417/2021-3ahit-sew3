@@ -1,0 +1,10 @@
+H:\2021-3ahit-sew3-HJ20180417\c#\sew3\20210311-logger\obj\Debug\20210311-logger.csprojAssemblyReference.cache
+H:\2021-3ahit-sew3-HJ20180417\c#\sew3\20210311-logger\obj\Debug\_20210311_logger.Form1.resources
+H:\2021-3ahit-sew3-HJ20180417\c#\sew3\20210311-logger\obj\Debug\_20210311_logger.Properties.Resources.resources
+H:\2021-3ahit-sew3-HJ20180417\c#\sew3\20210311-logger\obj\Debug\20210311-logger.csproj.GenerateResource.cache
+H:\2021-3ahit-sew3-HJ20180417\c#\sew3\20210311-logger\obj\Debug\20210311-logger.csproj.CoreCompileInputs.cache
+H:\2021-3ahit-sew3-HJ20180417\c#\sew3\20210311-logger\bin\Debug\20210311-logger.exe.config
+H:\2021-3ahit-sew3-HJ20180417\c#\sew3\20210311-logger\bin\Debug\20210311-logger.exe
+H:\2021-3ahit-sew3-HJ20180417\c#\sew3\20210311-logger\bin\Debug\20210311-logger.pdb
+H:\2021-3ahit-sew3-HJ20180417\c#\sew3\20210311-logger\obj\Debug\20210311-logger.exe
+H:\2021-3ahit-sew3-HJ20180417\c#\sew3\20210311-logger\obj\Debug\20210311-logger.pdb

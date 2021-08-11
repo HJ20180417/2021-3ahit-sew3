@@ -1,0 +1,13 @@
+X:\_repos\2021-3ahit-sew3-HJ20180417\c#\sew3\15012021-shaped\bin\Debug\netcoreapp3.1\15012021-shaped.exe
+X:\_repos\2021-3ahit-sew3-HJ20180417\c#\sew3\15012021-shaped\bin\Debug\netcoreapp3.1\15012021-shaped.deps.json
+X:\_repos\2021-3ahit-sew3-HJ20180417\c#\sew3\15012021-shaped\bin\Debug\netcoreapp3.1\15012021-shaped.runtimeconfig.json
+X:\_repos\2021-3ahit-sew3-HJ20180417\c#\sew3\15012021-shaped\bin\Debug\netcoreapp3.1\15012021-shaped.runtimeconfig.dev.json
+X:\_repos\2021-3ahit-sew3-HJ20180417\c#\sew3\15012021-shaped\bin\Debug\netcoreapp3.1\15012021-shaped.dll
+X:\_repos\2021-3ahit-sew3-HJ20180417\c#\sew3\15012021-shaped\bin\Debug\netcoreapp3.1\15012021-shaped.pdb
+X:\_repos\2021-3ahit-sew3-HJ20180417\c#\sew3\15012021-shaped\obj\Debug\netcoreapp3.1\15012021-shaped.csprojAssemblyReference.cache
+X:\_repos\2021-3ahit-sew3-HJ20180417\c#\sew3\15012021-shaped\obj\Debug\netcoreapp3.1\15012021-shaped.AssemblyInfoInputs.cache
+X:\_repos\2021-3ahit-sew3-HJ20180417\c#\sew3\15012021-shaped\obj\Debug\netcoreapp3.1\15012021-shaped.AssemblyInfo.cs
+X:\_repos\2021-3ahit-sew3-HJ20180417\c#\sew3\15012021-shaped\obj\Debug\netcoreapp3.1\15012021-shaped.csproj.CoreCompileInputs.cache
+X:\_repos\2021-3ahit-sew3-HJ20180417\c#\sew3\15012021-shaped\obj\Debug\netcoreapp3.1\15012021-shaped.dll
+X:\_repos\2021-3ahit-sew3-HJ20180417\c#\sew3\15012021-shaped\obj\Debug\netcoreapp3.1\15012021-shaped.pdb
+X:\_repos\2021-3ahit-sew3-HJ20180417\c#\sew3\15012021-shaped\obj\Debug\netcoreapp3.1\15012021-shaped.genruntimeconfig.cache

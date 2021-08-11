@@ -1,0 +1,10 @@
+X:\_repos\2021-3ahit-sew3-HJ20180417\c#\sew3\20210311-points\obj\Debug\20210311-points.csprojAssemblyReference.cache
+X:\_repos\2021-3ahit-sew3-HJ20180417\c#\sew3\20210311-points\obj\Debug\_20210311_points.Form1.resources
+X:\_repos\2021-3ahit-sew3-HJ20180417\c#\sew3\20210311-points\obj\Debug\_20210311_points.Properties.Resources.resources
+X:\_repos\2021-3ahit-sew3-HJ20180417\c#\sew3\20210311-points\obj\Debug\20210311-points.csproj.GenerateResource.cache
+X:\_repos\2021-3ahit-sew3-HJ20180417\c#\sew3\20210311-points\obj\Debug\20210311-points.csproj.CoreCompileInputs.cache
+X:\_repos\2021-3ahit-sew3-HJ20180417\c#\sew3\20210311-points\bin\Debug\20210311-points.exe.config
+X:\_repos\2021-3ahit-sew3-HJ20180417\c#\sew3\20210311-points\bin\Debug\20210311-points.exe
+X:\_repos\2021-3ahit-sew3-HJ20180417\c#\sew3\20210311-points\bin\Debug\20210311-points.pdb
+X:\_repos\2021-3ahit-sew3-HJ20180417\c#\sew3\20210311-points\obj\Debug\20210311-points.exe
+X:\_repos\2021-3ahit-sew3-HJ20180417\c#\sew3\20210311-points\obj\Debug\20210311-points.pdb

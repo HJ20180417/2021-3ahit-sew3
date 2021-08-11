@@ -1,0 +1,1 @@
+mvn archetype:generate -DarchetypeGroupId=org.openjfx -DarchetypeArtifactId=javafx-archetype-fxml -DarchetypeVersion=0.0.5 -DgroupId=at.litec -DartifactId=20210304_JavaFxFXML -Dversion=1.0.0 -Djavafx-version=15.0.1

@@ -1,0 +1,7 @@
+X:\_repos\2021-3ahit-sew3-HJ20180417\c#\sew3\20210409-kreise\bin\Debug\20210409-kreise.exe.config
+X:\_repos\2021-3ahit-sew3-HJ20180417\c#\sew3\20210409-kreise\bin\Debug\20210409-kreise.exe
+X:\_repos\2021-3ahit-sew3-HJ20180417\c#\sew3\20210409-kreise\bin\Debug\20210409-kreise.pdb
+X:\_repos\2021-3ahit-sew3-HJ20180417\c#\sew3\20210409-kreise\obj\Debug\20210409-kreise.csprojAssemblyReference.cache
+X:\_repos\2021-3ahit-sew3-HJ20180417\c#\sew3\20210409-kreise\obj\Debug\20210409-kreise.csproj.CoreCompileInputs.cache
+X:\_repos\2021-3ahit-sew3-HJ20180417\c#\sew3\20210409-kreise\obj\Debug\20210409-kreise.exe
+X:\_repos\2021-3ahit-sew3-HJ20180417\c#\sew3\20210409-kreise\obj\Debug\20210409-kreise.pdb

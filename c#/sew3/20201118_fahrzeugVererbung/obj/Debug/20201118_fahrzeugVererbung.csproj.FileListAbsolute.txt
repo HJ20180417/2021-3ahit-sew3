@@ -1,0 +1,10 @@
+X:\_repos\2021-3ahit-sew3-HJ20180417\c#\sew3\20201118_fahrzeugVererbung\obj\Debug\20201118_fahrzeugVererbung.csprojAssemblyReference.cache
+X:\_repos\2021-3ahit-sew3-HJ20180417\c#\sew3\20201118_fahrzeugVererbung\obj\Debug\_20201118_fahrzeugVererbung.Form1.resources
+X:\_repos\2021-3ahit-sew3-HJ20180417\c#\sew3\20201118_fahrzeugVererbung\obj\Debug\_20201118_fahrzeugVererbung.Properties.Resources.resources
+X:\_repos\2021-3ahit-sew3-HJ20180417\c#\sew3\20201118_fahrzeugVererbung\obj\Debug\20201118_fahrzeugVererbung.csproj.GenerateResource.cache
+X:\_repos\2021-3ahit-sew3-HJ20180417\c#\sew3\20201118_fahrzeugVererbung\obj\Debug\20201118_fahrzeugVererbung.csproj.CoreCompileInputs.cache
+X:\_repos\2021-3ahit-sew3-HJ20180417\c#\sew3\20201118_fahrzeugVererbung\bin\Debug\20201118_fahrzeugVererbung.exe.config
+X:\_repos\2021-3ahit-sew3-HJ20180417\c#\sew3\20201118_fahrzeugVererbung\bin\Debug\20201118_fahrzeugVererbung.exe
+X:\_repos\2021-3ahit-sew3-HJ20180417\c#\sew3\20201118_fahrzeugVererbung\bin\Debug\20201118_fahrzeugVererbung.pdb
+X:\_repos\2021-3ahit-sew3-HJ20180417\c#\sew3\20201118_fahrzeugVererbung\obj\Debug\20201118_fahrzeugVererbung.exe
+X:\_repos\2021-3ahit-sew3-HJ20180417\c#\sew3\20201118_fahrzeugVererbung\obj\Debug\20201118_fahrzeugVererbung.pdb
